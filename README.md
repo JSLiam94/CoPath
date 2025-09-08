@@ -4,15 +4,21 @@ CoHisNet
 --------
 ## Paper
 ##### [Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754)
-## The origin of the name
-### Contrast Multi-Scale Adaptive Swin KANsformer for pathological images classification
+
+## Contrastive Pathology framework
+
 ### Contrastive Histopathology Network
+#### ->Contrast Multi-Scale Adaptive Swin KANsformer for pathological images classification
+
+### Pathology Vote
+#### ->Domain Knowledge Guided Heuristic WSI Fine-Grained Classification Mechanism
 
 ## Patch-level classification
 ![CoHisNet](https://github.com/user-attachments/assets/24950147-6ba7-42ff-89e0-6ed6fc3d0bba)
 
 ### WSI-level classification(a heuristic Soft Voting classification process based on clinical knowledge rules)
-![wsi-vote](https://github.com/user-attachments/assets/c8223b14-4243-427d-92e3-1638f218110c)
+![wsi-vote](https://github.com/user-attachments/assets/887e57d7-6720-4c65-b500-1ac72b4ff05f)
+
 
 ## Private Dataset · Collection and Preprocessing
 ![data](https://github.com/user-attachments/assets/efadaa36-172e-4d36-85fc-6adbe35390c6)
