@@ -44,7 +44,7 @@ The default organization method of the dataset(train : test = 8 : 2)<br>
 ## Patch-level(or image) training
 Modify the `data-path` and set `num_classes`、`num_workers` (for Windows system, it is recommended to set it to `0`) in train_new.py<br>
 
-    python train_new.py
+    python train-new.py
 
 ## Patch-level evaluation
 
